@@ -1,0 +1,155 @@
+{
+  "products": [
+    {
+      "id": "98ac",
+      "name": "Điện thoại Samsung Galaxy S23",
+      "price": 22500000,
+      "category": "Điện tử",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Samsung+S23"
+    },
+    {
+      "id": "e351",
+      "name": "Bàn phím cơ Logitech G Pro",
+      "price": 3200000,
+      "category": "Phụ kiện",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Bàn+phím+Logitech"
+    },
+    {
+      "id": "2f4a",
+      "name": "Chuột không dây Razer DeathAdder",
+      "price": 1800000,
+      "category": "Phụ kiện",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Chuột+Razer"
+    },
+    {
+      "id": "a5c7",
+      "name": "Màn hình Dell Ultrasharp 27 inch",
+      "price": 9500000,
+      "category": "Điện tử",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Màn+hình+Dell"
+    },
+    {
+      "id": "8b1e",
+      "name": "Áo thun cotton trắng",
+      "price": 150000,
+      "category": "Thời trang",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Áo+thun+trắng"
+    },
+    {
+      "id": "d7e9",
+      "name": "Quần jeans skinny nam",
+      "price": 450000,
+      "category": "Thời trang",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Quần+jeans"
+    },
+    {
+      "id": "c1a9",
+      "name": "Đồng hồ thông minh Apple Watch SE",
+      "price": 7000000,
+      "category": "Thiết bị đeo",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Apple+Watch"
+    },
+    {
+      "id": "b0f2",
+      "name": "Giày thể thao Adidas Ultraboost",
+      "price": 2800000,
+      "category": "Thời trang",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Giày+Adidas"
+    },
+    {
+      "id": "5e1d",
+      "name": "Balo laptop chống nước",
+      "price": 550000,
+      "category": "Phụ kiện",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Balo+chống+nước"
+    },
+    {
+      "id": "67f1",
+      "name": "Sách 'Đắc nhân tâm'",
+      "price": 95000,
+      "category": "Sách",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Sách+Đắc+nhân+tâm"
+    },
+    {
+      "id": "8e3c",
+      "name": "Máy pha cà phê Philips",
+      "price": 4500000,
+      "category": "Gia dụng",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Máy+pha+cà+phê"
+    },
+    {
+      "id": "9f2b",
+      "name": "Bàn chải điện Oral-B",
+      "price": 850000,
+      "category": "Chăm sóc cá nhân",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Bàn+chải+OralB"
+    },
+    {
+      "id": "d0a8",
+      "name": "Nước hoa Chanel Bleu",
+      "price": 3800000,
+      "category": "Chăm sóc cá nhân",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Nước+hoa+Chanel"
+    },
+    {
+      "id": "e6a4",
+      "name": "Loa Bluetooth Sony XB43",
+      "price": 4200000,
+      "category": "Điện tử",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Loa+Sony"
+    },
+    {
+      "id": "7b52",
+      "name": "Bình giữ nhiệt Lock&Lock",
+      "price": 250000,
+      "category": "Gia dụng",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Bình+giữ+nhiệt"
+    },
+    {
+      "id": "1c9a",
+      "name": "Tủ lạnh Samsung Inverter 256L",
+      "price": 12500000,
+      "category": "Gia dụng",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Tủ+lạnh+Samsung"
+    },
+    {
+      "id": "f8d3",
+      "name": "Máy hút bụi Dyson V11",
+      "price": 15000000,
+      "category": "Gia dụng",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Máy+hút+bụi+Dyson"
+    },
+    {
+      "id": "3e9f",
+      "name": "Ghế công thái học Ergohuman",
+      "price": 7750000,
+      "category": "Nội thất",
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=Ghế+Ergohuman"
+    },
+    {
+      "id": "c1a2d0e0-d1f5-4f3c-9530-f4914073a15a",
+      "name": "new Product",
+      "price": 200,
+      "category": "Mới"
+    },
+    {
+      "id": "c56aa134-8bbb-45f6-bd90-979aab12b574",
+      "name": "mới",
+      "price": 1,
+      "category": "Mới"
+    },
+    {
+      "id": "7854d9b0-d90e-480c-a4a7-e78deef0a9ed",
+      "name": "1",
+      "price": 100,
+      "category": "Mới"
+    },
+    {
+      "id": "c1df2204-139d-44cb-afbf-e027cffe7b13",
+      "name": "hot new",
+      "price": 25000,
+      "image": "https://placehold.co/400x400/CCCCCC/333333?text=New-Product",
+      "category": "Mới"
+    }
+  ]
+}
