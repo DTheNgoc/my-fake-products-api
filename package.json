@@ -1,10 +1,10 @@
 {
   "name": "my-fake-products-api",
   "version": "1.0.0",
-  "description": "Fake products API using JSON Server",
-  "main": "server.js",
+  "description": "Fake products API using json-server",
+  "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port $PORT --host 0.0.0.0"
+    "start": "npx json-server --watch db.json --port $PORT --host 0.0.0.0"
   },
   "dependencies": {
     "json-server": "^0.17.3"
