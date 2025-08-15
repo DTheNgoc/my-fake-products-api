@@ -4,7 +4,7 @@
   "description": "Fake products API using json-server",
   "main": "index.js",
   "scripts": {
-    "start": "npx json-server --watch db.json --port $PORT --host 0.0.0.0"
+    "start": "node server.js"
   },
   "dependencies": {
     "json-server": "^0.17.3"
